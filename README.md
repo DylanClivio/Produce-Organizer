@@ -10,8 +10,8 @@ I could enhance my code by making it account for errors. If the user misspells a
 (Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?)
 The most challenging parts of the code to write were the ones that required using the users imput in a meaningful way. Connecting their input to a meaningful representation of data.
 
-What skills from this project will be particularly transferable to other projects or course work?
+(What skills from this project will be particularly transferable to other projects or course work?)
 There are a lot of things that are transferable to other projects as well as other programming languages. The use of loops is something that was fun to practice in this project.
 
-How did you make this program maintainable, readable, and adaptable?
+(How did you make this program maintainable, readable, and adaptable?)
 I tried my best to make the program simple. I am still learning a lot and I'm sure I made many stupid mistakes but I think making your program as simple as possible makes it more adaptable and reusable.
